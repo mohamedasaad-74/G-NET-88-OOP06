@@ -82,7 +82,22 @@
             //لا يمكن انشاء منها اي اوبجيكت
             //============================================================
             #endregion
+            #region Q4  Extension Methods
+            //a) What is an Extension Method?
+            //عبارة عن طريقة  تخليك تضيف دالة جديدة لكلاس جاهز من غير ما تعدل في الكود الأصلي بتاعه ولا تورث منه
+            //==================================================
 
+            //b) What keyword must be used in the first parameter of an extension method?
+            //=======this============
+            //================================================
+
+            //c) Where must an extension method be declared?
+            //يعرف داحل استاتيك كلاس ويكون غير متداخل
+            //==============================================
+
+            //d) Can an extension method access private members of the class it extends?
+// لا== لانها تكتب خارج الكلاس الاصلي وبالتالي مش هنوف البرايفيت 
+            #endregion
 
 
         }
